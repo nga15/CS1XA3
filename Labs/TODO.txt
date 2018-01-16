@@ -1,0 +1,8 @@
+Lab Dates
+
+Bash1 Lab - Jan 23
+Bash2 Lab - Feb 6
+Elm1 Lab  - Feb 27
+Elm2 Lab  - Mar 13
+Haskell1 Lab - Mar 27
+Haskell2 Lab - Apr 3
