@@ -1,0 +1,11 @@
+/u50/nga15/CS1XA3/ProjectAnalyze.sh:	grep --exclude="todo.log" -r "#TODO" ~/CS1XA3/ > todo.log
+/u50/nga15/CS1XA3/ProjectAnalyze.sh:	grep --exclude="todo.log" -r "#TODO" ~/CS1XA3/ > todo.log
+/u50/nga15/CS1XA3/Assign1/README.txt:This feature posts a line from every file in the repository with the tag "#TODO" into a 
+/u50/nga15/CS1XA3/results.log:/u50/nga15/CS1XA3/todo.log:/u50/nga15/CS1XA3/ProjectAnalyze.sh:	grep --exclude="todo.log" -r "#TODO" ~/CS1XA3/ > todo.log
+/u50/nga15/CS1XA3/results.log:/u50/nga15/CS1XA3/todo.log:/u50/nga15/CS1XA3/ProjectAnalyze.sh:	grep --exclude="todo.log" -r "#TODO" ~/CS1XA3/ > todo.log
+/u50/nga15/CS1XA3/results.log:/u50/nga15/CS1XA3/todo.log:/u50/nga15/CS1XA3/Assign1/README.txt:This feature posts a line from every file in the repository with the tag "#TODO" into a 
+/u50/nga15/CS1XA3/results.log:/u50/nga15/CS1XA3/ProjectAnalyze.sh:	grep --exclude="todo.log" -r "#TODO" ~/CS1XA3/ > todo.log
+/u50/nga15/CS1XA3/results.log:/u50/nga15/CS1XA3/ProjectAnalyze.sh:	grep --exclude="todo.log" -r "#TODO" ~/CS1XA3/ > todo.log
+/u50/nga15/CS1XA3/results.log:/u50/nga15/CS1XA3/Assign1/README.txt:This feature posts a line from every file in the repository with the tag "#TODO" into a 
+/u50/nga15/CS1XA3/script.sh:#TODO
+/u50/nga15/CS1XA3/tempscript.sh:grep "#TODO" 
